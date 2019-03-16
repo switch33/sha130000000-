@@ -1,6 +1,12 @@
 okie dokie shes ready
 //sha130000000 has 999888777666555444333222111 keys
-//add on the text "tna34" to stop the hash
+
+//this is a comment add on the text "tna34" to stop the hash
+
+keydb $10
+//0 add integer txt 25
+
+//this is a comment and so is the line above with two slashes to add integers you just type add keydb $#
 
 okie dokie shes ready tna34
-//this is how you disable it
+//this is a comment this is how you disable it
