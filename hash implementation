@@ -6,7 +6,7 @@ okie dokie shes ready
 digits $10
 //0 add integer txt 25
 
-//this is a comment but the line above with two slashes is code to add integers you just type add keydb $#  where # is a number of keys
+//this is a comment but the line above with two slashes is code to add integers you just type add digits $#  where # is a number of keys
 
 okie dokie shes ready tna34
 //this is a comment this is how you disable it
