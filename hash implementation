@@ -1,9 +1,9 @@
 okie dokie shes ready
-//sha130000000 has 999888777666555444333222111 keys
+//sha130000000 has 999888777666555444333222111 digits not keys for faster lookups
 
 //this is a comment add on the text "tna34" to stop the hash
 
-keydb $10
+digits $10
 //0 add integer txt 25
 
 //this is a comment but the line above with two slashes is code to add integers you just type add keydb $#  where # is a number of keys
